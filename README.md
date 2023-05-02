@@ -9,9 +9,13 @@
 用法 ==> 
 
 1. 路径中的blob改为raw后：https://github.com/ForeverZang/ForeverZang/raw/main/elk/ceTX0FODDpI.png
-2. 路径后面加上参数后：https://github.com/ForeverZang/ForeverZang/blob/main/elk/ceTX0FODDpI.png?raw=true
 
-预览 ==>
 ![路径中的blob改为raw](https://github.com/ForeverZang/ForeverZang/raw/main/elk/ceTX0FODDpI.png)
 
+2. 路径后面加上参数后：https://github.com/ForeverZang/ForeverZang/blob/main/elk/ceTX0FODDpI.png?raw=true
+
 ![路径后面加上参数](https://github.com/ForeverZang/ForeverZang/blob/main/elk/ceTX0FODDpI.png?raw=true)
+
+3. 路径前面修改前缀后：https://raw.githubusercontent.com/ForeverZang/ForeverZang/main/elk/ceTX0FODDpI.png
+
+![路径后面加上参数](https://raw.githubusercontent.com/ForeverZang/ForeverZang/main/elk/ceTX0FODDpI.png)
